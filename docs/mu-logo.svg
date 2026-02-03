@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">mu project logo</title>
+  <desc id="desc">Rounded mu symbol drawn with a blue-to-purple gradient stroke and a small green accent dot.</desc>
+  <defs>
+    <linearGradient id="muStroke" x1="120" y1="120" x2="400" y2="400" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#2f87ff"/>
+      <stop offset="60%" stop-color="#7047ff"/>
+      <stop offset="100%" stop-color="#8a46f0"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="0.5" cy="0.4" r="0.7">
+      <stop offset="0%" stop-color="#0ac8a0" stop-opacity="0.20"/>
+      <stop offset="60%" stop-color="#0ac8a0" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Subtle glow to give the mark lift on light or dark backgrounds -->
+  <circle cx="256" cy="256" r="210" fill="url(#halo)"/>
+
+  <!-- Stylized mu stroke -->
+  <path d="M150 120
+           L150 330
+           C150 380 205 405 240 360
+           L240 230
+           C240 190 275 190 275 230
+           L275 340
+           C275 392 330 408 365 360
+           L365 200"
+        fill="none"
+        stroke="url(#muStroke)"
+        stroke-width="46"
+        stroke-linecap="round"
+        stroke-linejoin="round"/>
+
+  <!-- Accent dot to add a tinge of green -->
+  <circle cx="365" cy="180" r="16" fill="#11d2a8"/>
+</svg>
